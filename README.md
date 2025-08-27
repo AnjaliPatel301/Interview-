@@ -4,10 +4,10 @@
 
 1. Can we connect JavaScript Directly with Actual Database. can you give reason of it ?
 
-   a) Yes;
-   b) No;
-   c) Sometime;
-   d) Some Database
+   * Yes;
+   * No;
+   * Sometime;
+   * Some Database
 
 View Answer-(B)🤪
 
