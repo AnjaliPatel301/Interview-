@@ -4,57 +4,71 @@
 
 1. Can we connect JavaScript Directly with Actual Database. can you give reason of it ?
 
-a) Yes;
-b) No;
-c) Sometime;
-d) Some Database
+   a) Yes;
+   b) No;
+   c) Sometime;
+   d) Some Database
 
 View Answer-(B)🤪
 
+
+
 2. Which of the following is NOT a JavaScript data type?
 
-a) String
-b) Boolean
-c) Float
-d) Undefined
+     a) String
+     b) Boolean
+     c) Float
+     d) Undefined
 
 View Answer-(c)
 
+
+
 3. Which symbol is used for single-line comments in JavaScript?
 
-a) //
-b) /*
-c) #
-d) <!--
+     a) //
+     b) /*
+     c) #
+     d) <!--
 
 View Answer-(a)
 
+
+
 ** 4. What will typeof null return?**
 
-a) "null"
-b) "object"
-c) "undefined"
-d) "string"
+   a) "null"
+   b) "object"
+   c) "undefined"
+   d) "string"
 
 View Answer-(b)
 
+
+  
 5. How to make immutable object in JavaScript
 
-a) final var ={name:'Anil'}
-b) const user={name:'Anil'}
-c) var  user={name:'Anil'}; Object.freeze(user);
-c) There is no way to make immutable object
+   a) final var ={name:'Anil'}
+   b) const user={name:'Anil'}
+   c) var  user={name:'Anil'}; Object.freeze(user);
+   c) There is no way to make immutable object
 
 View Answer-(C)
 
+
+
+  
 **6. Operators & Expressions What will 2 + "2" evaluate to? **
 
-a) 4
-b) "22"
-c) NaN
-d) Error
+   a) 4
+   b) "22"
+   c) NaN
+   d) Error
 
 View Answer-(B)
+
+
+
 
 *** 7.Which operator is used for strict equality in JavaScript?***
 
@@ -65,6 +79,9 @@ d) !=
 
 View Answer-(B)
 
+
+
+
 8. What does !!"false" evaluate to?
 
 a) true
@@ -73,15 +90,23 @@ c) undefined
 d) Error
 View Answer-(a)
 
+
+
+
 9. What is the result of 5 == "5"?
 a) true
 b) false
 View Answer-(a)
 
+
+
 ** 10. What is the result of type of "5 " === " 5"? **
 a) true
 b) false
 View Answer-(b)
+
+
+
 
 ** 11. Which loop is guaranteed to execute at least once? **
 
@@ -90,6 +115,9 @@ b) while loop
 c) do-while loop
 d) None of the above
 View Answer-(c)
+
+
+
 
 12. Output of this for loop loop
 for(;;) {
@@ -101,6 +129,9 @@ c) Error
 d) Only Run once 
 View Answer-(a)
 
+
+
+
 ** 13. What will console.log(typeof NaN); print? **
 
 a) "number"
@@ -108,6 +139,9 @@ b) "NaN"
 c) "undefined"
 d) "object"
 View Answer-(a)
+
+
+
 
 14. Output of below statment
 
@@ -120,12 +154,19 @@ c) 0
 d) undefined
 View Answer-(c)
 
+
+
+
+
 *** 15. What will console.log(typeof function(){}); return? ***
 a) "function"
 b) "object"
 c) "undefined"
 d) "null"
 View Answer-(a)
+
+
+
 
 *** 16. What will console.log(typeof function(){}(); return? ***
 a) "function"
@@ -134,12 +175,19 @@ c) "undefined"
 d) "null"
 View Answer-(c)
 
+
+
+
+
 *** 17. What is the default return value of a function in JavaScript if no return statement is used? ***
 a) null
 b) undefined
 c) false
 d) 0
 View Answer-(b)
+
+
+
 
 ** 18. Which type of function executes immediately after its definition? **
 
@@ -148,6 +196,9 @@ b) Named function
 c) IIFE (Immediately Invoked Function Expression)
 d) Arrow function
 View Answer-(c)
+
+
+
 
 **19 Outpout of below statment **
  console.log(x);
@@ -158,6 +209,9 @@ c) ReferenceError
 d) NaN
 View Answer-(c)
 
+
+
+
 **20. How do you create an object in JavaScript? **
 
 a) let obj = {};
@@ -165,6 +219,8 @@ b) let obj = new Object();
 c) Both a and b
 d) None of the above
 View Answer-(c)
+
+
 
 21 How do you access a property in an object?
 
@@ -174,6 +230,9 @@ c) Both a and b
 d) None of the above
 View Answer-(c)
 
+
+
+
 22. Which method is used to add a new element at the end of an array?
 
 a) push()
@@ -181,6 +240,9 @@ b) pop()
 c) shift()
 d) unshift()
 View Answer-(a)
+
+
+
 
 **23 What will console.log([1,2,3].length); return? **
 
@@ -190,6 +252,9 @@ c) 4
 d) undefined
 View Answer-(b)
 
+
+
+
 24 How do you remove first 2 element of an array?
 
 a) pop()
@@ -197,6 +262,8 @@ b) shift()
 c) unshift()
 d) splice()
 View Answer-(d)
+
+
 
 **25 Which keyword allows block-scoped variable declarations? **
 
@@ -206,6 +273,9 @@ c) const
 d) Both b and c
 View Answer-(d)
 
+
+
+
 26 Which of the following is true about const variables?
 
 a) Their values cannot be changed
@@ -213,6 +283,10 @@ b) They cannot be reassigned
 c) They are always immutable
 d) All of the above
 View Answer-(c)
+
+
+
+
 
 **27. What is the output of console.log(typeof([]));? **
 
@@ -222,6 +296,10 @@ c) "undefined"
 d) "null"
 View Answer-(a)
 
+
+
+
+
 **28 What is a template literal in JavaScript? **
 
 a) A type of array
@@ -229,6 +307,9 @@ b) A string enclosed in backticks (` `)
 c) A special function
 d) A new ES6 data type
 View Answer-(b)
+
+
+
 
 **29. What will console.log(..."Hello"); output? **
 
@@ -238,6 +319,9 @@ c) Syntax Error
 d) undefined
 View Answer-(a)
 
+
+
+
 ** 30. How do you define an arrow function? **
 
 a) const add = (a, b) => a + b;
@@ -246,12 +330,18 @@ c) Both a and b
 d) None of the above
 View Answer-(a)
 
+
+
+
 31 What does the spread operator ... do in JavaScript?
 
 a) Combines arrays
 b) Expands iterable elements
 C) All of the above
 View Answer-(d)
+
+
+
 
 ** 32. What will console.log([...new Set([1, 2, 2, 3])]); return? **
 
