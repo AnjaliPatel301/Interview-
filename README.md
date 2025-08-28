@@ -15,10 +15,10 @@ View Answer-(B)🤪
 
 2. Which of the following is NOT a JavaScript data type?
 
-     a) String
-     b) Boolean
-     c) Float
-     d) Undefined
+     * String
+     * Boolean
+     * Float
+     * Undefined
 
 View Answer-(c)
 
@@ -26,10 +26,10 @@ View Answer-(c)
 
 3. Which symbol is used for single-line comments in JavaScript?
 
-     a) //
-     b) /*
-     c) #
-     d) <!--
+     * //
+     * /*
+     * #
+     * <!--
 
 View Answer-(a)
 
@@ -37,10 +37,10 @@ View Answer-(a)
 
 ** 4. What will typeof null return?**
 
-   a) "null"
-   b) "object"
-   c) "undefined"
-   d) "string"
+   * "null"
+   * "object"
+   * "undefined"
+   * "string"
 
 View Answer-(b)
 
