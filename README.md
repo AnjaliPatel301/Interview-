@@ -29,7 +29,7 @@ View Answer-(c)
      * //
      * /*
      * #
-     * <!--
+     * //<!--
 
 View Answer-(a)
 
@@ -48,10 +48,10 @@ View Answer-(b)
   
 5. How to make immutable object in JavaScript
 
-   a) final var ={name:'Anil'}
-   b) const user={name:'Anil'}
-   c) var  user={name:'Anil'}; Object.freeze(user);
-   c) There is no way to make immutable object
+   * final var ={name:'Anil'}
+   * const user={name:'Anil'}
+   * var  user={name:'Anil'}; Object.freeze(user);
+   * There is no way to make immutable object
 
 View Answer-(C)
 
@@ -60,10 +60,10 @@ View Answer-(C)
   
 **6. Operators & Expressions What will 2 + "2" evaluate to? **
 
-   a) 4
-   b) "22"
-   c) NaN
-   d) Error
+   * 4
+   * "22"
+   * NaN
+   * Error
 
 View Answer-(B)
 
@@ -72,10 +72,10 @@ View Answer-(B)
 
 *** 7.Which operator is used for strict equality in JavaScript?***
 
-a) ==
-b) !==
-c) =
-d) !=
+* ==
+* !==
+* =
+* !=
 
 View Answer-(B)
 
