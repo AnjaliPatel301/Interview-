@@ -86,25 +86,25 @@ View Answer-(B)
 
 8. What does !!"false" evaluate to?
 
-a) true
-b) false
-c) undefined
-d) Error
+  * true
+  * false
+  * undefined
+  * Error
 View Answer-(a)
 
 
 
 
 9. What is the result of 5 == "5"?
-a) true
-b) false
+    * true
+    * false
 View Answer-(a)
 
 
 
 ** 10. What is the result of type of "5 " === " 5"? **
-a) true
-b) false
+   * true
+   * false
 View Answer-(b)
 
 
@@ -112,10 +112,10 @@ View Answer-(b)
 
 ** 11. Which loop is guaranteed to execute at least once? **
 
-a) for loop
-b) while loop
-c) do-while loop
-d) None of the above
+  * for loop
+  * while loop
+  * do-while loop
+  * None of the above
 View Answer-(c)
 
 
@@ -125,10 +125,10 @@ View Answer-(c)
 for(;;) {
 console.log("Loop")
 }
-a) Infinit Loop 
-b) Loop will not execute
-c) Error
-d) Only Run once 
+   * Infinit Loop 
+   * Loop will not execute
+   * Error
+   * Only Run once 
 View Answer-(a)
 
 
@@ -136,10 +136,10 @@ View Answer-(a)
 
 ** 13. What will console.log(typeof NaN); print? **
 
-a) "number"
-b) "NaN"
-c) "undefined"
-d) "object"
+  * "number"
+  * "NaN"
+  * "undefined"
+  * "object"
 View Answer-(a)
 
 
@@ -150,10 +150,10 @@ View Answer-(a)
 let x=null;
 let y=null;
 console.log(x+y) 
-a) null
-b) object
-c) 0
-d) undefined
+  * null
+  * object
+  * 0
+  * undefined
 View Answer-(c)
 
 
@@ -161,10 +161,10 @@ View Answer-(c)
 
 
 *** 15. What will console.log(typeof function(){}); return? ***
-a) "function"
-b) "object"
-c) "undefined"
-d) "null"
+  * "function"
+  * "object"
+  * "undefined"
+  * "null"
 View Answer-(a)
 
 
@@ -337,9 +337,9 @@ View Answer-(a)
 
 31 What does the spread operator ... do in JavaScript?
 
-a) Combines arrays
-b) Expands iterable elements
-C) All of the above
+* Combines arrays
+* Expands iterable elements
+* All of the above
 View Answer-(d)
 
 
@@ -347,10 +347,10 @@ View Answer-(d)
 
 ** 32. What will console.log([...new Set([1, 2, 2, 3])]); return? **
 
-a) [1, 2, 3]
-b) [1, 2, 2, 3]
-c) Set {1, 2, 3}
-d) {1, 2, 3}
+* [1, 2, 3]
+*  [1, 2, 2, 3]
+* Set {1, 2, 3}
+* {1, 2, 3}
 View Answer-(a)
 **********************************************************************************************************************************************************************************
 
