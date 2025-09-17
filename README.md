@@ -546,6 +546,8 @@ b) function
 c) Class
 d) new Class
 View Answer
+
+
 59. What is the purpose of the constructor method in a class?
 
 a) To create private variables
